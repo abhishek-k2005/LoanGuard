@@ -1,0 +1,55 @@
+# Data files - never push these
+data/
+*.csv
+*.csv.gz
+*.parquet
+*.xlsx
+*.json
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Model files - too large for github
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+models/
+
+# SHAP cache
+shap_cache/
+
+# Environment variables - contains API keys
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Streamlit
+.streamlit/secrets.toml
