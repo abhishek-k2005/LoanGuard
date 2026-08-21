@@ -21,6 +21,14 @@
 
 ![Loan Analyzer 3](notebooks/images/Loan_analyser_3.png)
 
+### 📈 Vintage & Stress Testing
+
+![Vintage Analysis](notebooks/images/18_vintage_analysis.png)
+
+![Quarterly Vintage](notebooks/images/19_quarterly_vintage.png)
+
+![Stress Testing](notebooks/images/20_stress_testing.png)
+
 ---
 
 ## 🎯 What This Project Does
