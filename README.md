@@ -6,17 +6,19 @@
 
 ## 📸 Screenshots
 
-> _Add screenshots of your Streamlit dashboard here. Replace the placeholders below with actual images from the running app._
+### 🏠 Portfolio Overview
 
-| Portfolio Overview | Loan Analyzer |
-|---|---|
-| ![Portfolio Overview](notebooks/images/portfolio_overview.png) | ![Loan Analyzer](notebooks/images/loan_analyzer.png) |
+![Portfolio Overview](notebooks/images/portfolio_overview.png)
 
-| Vintage & Stress Testing | Model Performance |
-|---|---|
-| ![Vintage Analysis](notebooks/images/18_vintage_analysis.png) | ![Model Performance](notebooks/images/06_roc_pr_curves.png) |
+![Portfolio Overview 2](notebooks/images/overview_1.png)
 
-> 💡 **How to add your own screenshots:** Run the Streamlit app (`streamlit run dashboard/app.py`), take screenshots of each tab, save them in `notebooks/images/`, and update the paths above.
+![Portfolio Overview 3](notebooks/images/overview_2.png)
+
+### 🔍 Loan Analyzer
+
+![Loan Analyzer](notebooks/images/Loan_analyser2.png)
+
+![Loan Analyzer 3](notebooks/images/Loan_analyser_3.png)
 
 ---
 
