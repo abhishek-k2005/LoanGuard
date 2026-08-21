@@ -8,13 +8,14 @@
 
 ### 🏠 Portfolio Overview
 
-![Portfolio Overview](notebooks/images/portfolio_overview.png)
+
 
 ![Portfolio Overview 2](notebooks/images/overview_1.png)
 
 ![Portfolio Overview 3](notebooks/images/overview_2.png)
 
 ### 🔍 Loan Analyzer
+![Portfolio Overview](notebooks/images/portfolio_overview.png)
 
 ![Loan Analyzer](notebooks/images/Loan_analyser2.png)
 
